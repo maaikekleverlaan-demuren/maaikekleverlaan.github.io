@@ -312,8 +312,13 @@ a:active {
     width: 100%;
 }
 
-.img_info {
+.a_info {
 	width : 5%
+	
+}
+
+.img_info {
+	width : 100%
 }
 
 .info {
